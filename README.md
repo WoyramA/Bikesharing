@@ -10,7 +10,7 @@ https://public.tableau.com/shared/RHBB45DQG?:display_count=n&:origin=viz_share_l
 
 
 ## Results
-The bike-sharing data for August 2019 and arrived at some very interesting findings which are summarized on the Dashboard below.
+The New York City bike-sharing data for August 2019 and arrived at some very interesting findings which are summarized on the Dashboard below.
 A total number of 2,344,224 bike trips were made in the month of August with male bikers being the majority and happened to be almost tripple the number of female bikers recorded for that month. Subscribers formed a large number of users, accounting for over 75% while customers made up less than 25% of the users.
 The average duration bikers rode fell between 1000 and 2000 miles, with afew outliers seen for very elderly users as shown below.
 ### New York City Citibike Dashboard 
@@ -90,7 +90,7 @@ https://public.tableau.com/views/UserTripsbyGenderbyWeekday_16797037941180/UserT
 ---
 ## Summary
 
-From the bikesharing data gathered so far in 2019, from the hottest summer month being August, data reveals that a large number of residents happen to use bikes through bikesharing. Majority of users are subscribed to the service and happen to be males who form about two-thirds of the biking population. The bussiest days are usually thursdays but tuesdays, mondays and fridays  reasonably also show bikers utilizing bikesharing services. The busiest times are usually rush hour times around 8am in the morning and between 5 and 7pm in the evening. Usually between midning and 1am, most of the bikes are returned. 
+From the bikesharing data gathered so far from New York City in 2019, from the hottest summer month being August, data reveals that a large number of residents happen to use bikes through bikesharing. Majority of users are subscribed to the service and happen to be males who form about two-thirds of the biking population. The bussiest days are usually thursdays but tuesdays, mondays and fridays  reasonably also show bikers utilizing bikesharing services. The busiest times are usually rush hour times around 8am in the morning and between 5 and 7pm in the evening. Usually between midning and 1am, most of the bikes are returned. 
 
 This data shows that bikesharing is very lucrative and opening a bike-sharing company anywhere, would thrive, especially during the summer season.
 
