@@ -22,7 +22,7 @@ https://public.tableau.com/views/AverageTripDuration1/AverageTripDuration?:langu
 
 
 
-### Citibike Line Graph Number of Bikes checking out by hour
+### Citibike Line Graph Number of Bikes checked out by hour
 
 ![Checkout Times for Users](https://user-images.githubusercontent.com/114967995/227689113-3b6b7a78-ed82-4c9f-9d77-c03828c713ad.png)
 https://public.tableau.com/views/CitiBikeChallengeCheckoutTimesForUsers/CheckoutTimesforUsers?:language=en-US&:display_count=n&:origin=viz_share_link
@@ -31,7 +31,7 @@ https://public.tableau.com/views/CitiBikeChallengeCheckoutTimesForUsers/Checkout
 
 
 
-### Citibike Line Graph Number of Bikes checking out by gender by hour
+### Citibike Line Graph Number of Bikes checked out by gender by hour
 
 ![Checkout Times by Gender](https://user-images.githubusercontent.com/114967995/227689180-0eb2166d-d0c5-4f63-9530-ae7b0cdb0c6e.png)
 https://public.tableau.com/views/CitiBikeChallengeCheckoutTimesbyGender/CheckoutTimesbyGender?:language=en-US&:display_count=n&:origin=viz_share_link
