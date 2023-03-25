@@ -56,7 +56,7 @@ https://public.tableau.com/views/TripsbyWeekdayforEachHour_16797145815160/Tripsb
 
 
 
-### Citibike Heatmap of Number of Bikestrips by gender for Weekdays by hour by
+### Citibike Heatmap of Number of Bikestrips by gender for Weekdays by hour
 
 ![Trips by Gender (Weekday per Hour)](https://user-images.githubusercontent.com/114967995/227689575-857e9584-1a72-48d0-aaca-06aecaa9ee07.png)
 https://public.tableau.com/views/ChallengeCitiBikeTripsbyGenderWeekdayperHour/TripsbyGenderWeekdayperHour?:language=en-US&:display_count=n&:origin=viz_share_link
