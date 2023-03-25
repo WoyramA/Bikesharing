@@ -4,7 +4,7 @@
 The Bikesharing project is a data visualization project proposed by Woyram, which she plans to pull off with the help of a visualization expert and consultant, Kate. In this project Woyram uses the Tableau dashboard to explain her idea to investors who are interested in the bike-sharing-company she is proposing in Des- Moines.
 
 ## Results
-Woyram and Kate explored the bike-sharing data for August 2019 and arrived at some very interesting findings which are summarized on the Dashboard below.
+The bike-sharing data for August 2019 and arrived at some very interesting findings which are summarized on the Dashboard below.
 A total number of 2,344,224 bike trips were made in the month of August with male bikers being the majority and happened to be almost tripple the number of female bikers recorded for that month. Subscribers formed a large number of users, accounting for over 75% while customers made up less than 25% of the users.
 The average duration bikers rode fell between 1000 and 2000 miles, with afew outliers seen for very elderly users as shown below.
 ### New York City Citibike Dashboard 
