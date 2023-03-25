@@ -24,6 +24,7 @@ https://public.tableau.com/views/AverageTripDuration1/AverageTripDuration?:langu
 
 
 ### New York City Top Bikesharing ending locations
+The number of Top ending locations were similar to the top starting locations and these locations fell within the same jurisdictions as well.
 
 ![Top Ending Locations](https://user-images.githubusercontent.com/114967995/227689962-0ec3c8c4-5118-416a-a3b9-b08582df379a.png)
 https://public.tableau.com/views/BikesharingTopEndingLocations/TopEndingLocations?:language=en-US&:display_count=n&:origin=viz_share_link
