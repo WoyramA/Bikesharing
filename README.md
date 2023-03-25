@@ -9,7 +9,11 @@ The Bikesharing project is a data visualization project proposed by Woyram, whic
 
 ### Citibike Average Trip Duration
 
+![Average Trip Duration](https://user-images.githubusercontent.com/114967995/227688041-7dad68a2-43df-4fe5-aac3-8668ecfbb1f3.png)
+
 https://public.tableau.com/views/AverageTripDuration1/AverageTripDuration?:language=en-US&:display_count=n&:origin=viz_share_link
+
+
 
 ### Citibike Line Graph Number of Bikes by hour in des Moines
 
