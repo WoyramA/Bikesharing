@@ -9,14 +9,7 @@ The Bikesharing project is a data visualization project proposed by Woyram, whic
 
 ![NYC Story](https://user-images.githubusercontent.com/114967995/227688849-d6155279-db96-4941-9672-437d0fe25bd6.png)
 
-
 https://public.tableau.com/views/NYCCitibikeStory_16794639212500/NYCStory?:language=en-US&:display_count=n&:origin=viz_share_link
-
-
-
-### New York City Citibike Number of Bikes per customer type
-
-
 
 
 ### New York City Citibike Average Trip Duration
