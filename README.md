@@ -33,6 +33,7 @@ https://public.tableau.com/views/BikesharingTopEndingLocations/TopEndingLocation
 
 ---
 ### Citibike Line Graph Number of Bikes checked out by hour
+Generally, bikes were returned typically between midnight and 1am, according to data collected from bikers.
 
 ![Checkout Times for Users](https://user-images.githubusercontent.com/114967995/227689113-3b6b7a78-ed82-4c9f-9d77-c03828c713ad.png)
 https://public.tableau.com/views/CitiBikeChallengeCheckoutTimesForUsers/CheckoutTimesforUsers?:language=en-US&:display_count=n&:origin=viz_share_link
@@ -42,6 +43,7 @@ https://public.tableau.com/views/CitiBikeChallengeCheckoutTimesForUsers/Checkout
 
 ---
 ### Citibike Line Graph Number of Bikes checked out by gender by hour
+Male bikers happen to form the larger number of users, followed by female biker and those who identified as unknown. Majority of user, regardles of gender were noticed to typically checkout bikes between 12midnight and 1am.
 
 ![Checkout Times by Gender](https://user-images.githubusercontent.com/114967995/227689180-0eb2166d-d0c5-4f63-9530-ae7b0cdb0c6e.png)
 https://public.tableau.com/views/CitiBikeChallengeCheckoutTimesbyGender/CheckoutTimesbyGender?:language=en-US&:display_count=n&:origin=viz_share_link
