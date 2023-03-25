@@ -14,7 +14,7 @@ https://public.tableau.com/views/NYCCitibikeStory_16794639212500/NYCStory?:langu
 
 
 
-
+---
 ### New York City Citibike Average Trip Duration
 
 ![Average Trip Duration](https://user-images.githubusercontent.com/114967995/227688041-7dad68a2-43df-4fe5-aac3-8668ecfbb1f3.png)
@@ -22,7 +22,7 @@ https://public.tableau.com/views/AverageTripDuration1/AverageTripDuration?:langu
 
 
 
-
+---
 ### New York City Top Bikesharing ending locations
 The number of Top ending locations were similar to the top starting locations and these locations fell within the same jurisdictions as well.
 
@@ -31,7 +31,7 @@ https://public.tableau.com/views/BikesharingTopEndingLocations/TopEndingLocation
 
 
 
-
+---
 ### Citibike Line Graph Number of Bikes checked out by hour
 
 ![Checkout Times for Users](https://user-images.githubusercontent.com/114967995/227689113-3b6b7a78-ed82-4c9f-9d77-c03828c713ad.png)
@@ -40,7 +40,7 @@ https://public.tableau.com/views/CitiBikeChallengeCheckoutTimesForUsers/Checkout
 
 
 
-
+---
 ### Citibike Line Graph Number of Bikes checked out by gender by hour
 
 ![Checkout Times by Gender](https://user-images.githubusercontent.com/114967995/227689180-0eb2166d-d0c5-4f63-9530-ae7b0cdb0c6e.png)
@@ -49,7 +49,7 @@ https://public.tableau.com/views/CitiBikeChallengeCheckoutTimesbyGender/Checkout
 
 
 
-
+---
 ### Citibike Heatmap of Number of Biketrips by users for Weekdays by hour 
 
 ![Trips by Weekday for Each Hour](https://user-images.githubusercontent.com/114967995/227689519-15333e97-c108-4950-b5a3-b3896dfde334.png)
@@ -58,7 +58,7 @@ https://public.tableau.com/views/TripsbyWeekdayforEachHour_16797145815160/Tripsb
 
 
 
-
+---
 ### Citibike Heatmap of Number of Bikestrips by gender for Weekdays by hour
 
 ![Trips by Gender (Weekday per Hour)](https://user-images.githubusercontent.com/114967995/227689575-857e9584-1a72-48d0-aaca-06aecaa9ee07.png)
@@ -67,7 +67,7 @@ https://public.tableau.com/views/ChallengeCitiBikeTripsbyGenderWeekdayperHour/Tr
 
 
 
-
+---
 ### Citibike Heatmap of Number of Biketrips by users for Weekdays 
 
 ![User Trips by Gender by Weekday](https://user-images.githubusercontent.com/114967995/227689611-371c2ce6-566b-4401-8173-3851d8871469.png)
@@ -77,5 +77,5 @@ https://public.tableau.com/views/UserTripsbyGenderbyWeekday_16797037941180/UserT
 
 
 
-
+---
 ## Summary
