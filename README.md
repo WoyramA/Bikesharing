@@ -7,7 +7,9 @@ The Bikesharing project is a data visualization project proposed by Woyram, whic
 
 ### Citibike Number of Bikes per customer type
 
-### Citibike Number of Trips
+### Citibike Average Trip Duration
+
+https://public.tableau.com/views/AverageTripDuration1/AverageTripDuration?:language=en-US&:display_count=n&:origin=viz_share_link
 
 ### Citibike Line Graph Number of Bikes by hour in des Moines
 
