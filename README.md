@@ -5,6 +5,20 @@ The Bikesharing project is a data visualization project proposed by Woyram, whic
 
 ## Results
 
+### Citibike Number of Bikes per customer type
+
+### Citibike Number of Trips
+
+### Citibike Line Graph Number of Bikes by hour in des Moines
+
+### Citibike Line Graph Number of Bikes by gender by hour
+
+### Citibike Heatmap of Number of Bikes by users by hour by Weekday
+
+### Citibike Heatmap of Number of Bikes by gender by hour by Weekday
+
+### Citibike 
+
 
 
 ## Summary
