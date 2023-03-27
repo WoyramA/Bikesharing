@@ -68,7 +68,7 @@ https://public.tableau.com/views/TripsbyWeekdayforEachHour_16797145815160/Tripsb
 
 ---
 ### Citibike Heatmap of Number of Bikestrips by gender for Weekdays by hour
-Mondays, Tuesdays and Thursdays happen to be the bussiest days and there is a rush for bikes between at 8am in the morning and between 5pm and 7pm in the evenings. There are fewer biketrips from fridays and over the weekends. Male riders dominate the biking space.
+Mondays, Tuesdays and Thursdays happen to be the bussiest days and there is a rush for bikes between 5am and 8am in the morning and between 5pm and 7pm in the evenings. There are fewer biketrips from fridays and over the weekends. Male riders dominate the biking space.
 
 ![Trips by Gender (Weekday per Hour)](https://user-images.githubusercontent.com/114967995/227689575-857e9584-1a72-48d0-aaca-06aecaa9ee07.png)
 https://public.tableau.com/views/ChallengeCitiBikeTripsbyGenderWeekdayperHour/TripsbyGenderWeekdayperHour?:language=en-US&:display_count=n&:origin=viz_share_link
