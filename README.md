@@ -90,7 +90,7 @@ https://public.tableau.com/views/UserTripsbyGenderbyWeekday_16797037941180/UserT
 ---
 ## Summary
 
-From the bikesharing data gathered so far from New York City in 2019, from the hottest summer month being August, data reveals that a large number of residents happen to use bikes through bikesharing. Majority of users are subscribed to the service and happen to be males who form about two-thirds of the biking population. The bussiest days are usually thursdays but tuesdays, mondays and fridays  reasonably also show bikers utilizing bikesharing services. The busiest times are usually rush hour times around 8am in the morning and between 5 and 7pm in the evening. Usually between midning and 1am, most of the bikes are returned. 
+From the bikesharing data gathered so far from New York City in 2019, from the hottest summer month being August, data reveals that a large number of residents happen to use bikes through bikesharing. Majority of users are subscribed to the service and happen to be males who form about two-thirds of the biking population. The bussiest days are usually thursdays but tuesdays, mondays and fridays  reasonably also show bikers utilizing bikesharing services. The busiest times are usually rush hour times around 5am to 8am in the morning and between 5pm and 7pm in the evening. Usually between midning and 1am, most of the bikes are returned. 
 
 This data shows that bikesharing is very lucrative and opening a bike-sharing company anywhere, would thrive, especially during the summer season.
 
