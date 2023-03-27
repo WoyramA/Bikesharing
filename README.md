@@ -10,7 +10,7 @@ https://public.tableau.com/shared/RHBB45DQG?:display_count=n&:origin=viz_share_l
 
 
 ## Results
-The New York City bike-sharing data for August 2019 and arrived at some very interesting findings which are summarized on the Dashboard below.
+The New York City bike-sharing data for August 2019 revealed some very interesting findings which are summarized on the Dashboard below.
 A total number of 2,344,224 bike trips were made in the month of August with male bikers being the majority and happened to be almost tripple the number of female bikers recorded for that month. Subscribers formed a large number of users, accounting for over 75% while customers made up less than 25% of the users.
 The average duration bikers rode fell between 1000 and 2000 miles, with afew outliers seen for very elderly users as shown below.
 ### New York City Citibike Dashboard 
